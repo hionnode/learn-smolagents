@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+learn-smolagents/
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/settings.local.json
